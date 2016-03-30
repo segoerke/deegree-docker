@@ -1,5 +1,5 @@
 FROM tomcat
-MAINTAINER Sebastian Goerke <goerke@lat-lon.de>
+MAINTAINER Sebastian Goerke <sgoerke@csc.com>
 
 # set deegree version
 ENV DEEGREE_VERSION 3.3.14
